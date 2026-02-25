@@ -50,7 +50,7 @@
 ## 🐍 SNAKE EATING YOUR COMMITS (TRÙM CUỐI)
 
 <p align="center">
-  ![snake](https://raw.githubusercontent.com/Endy115/Endy115/output/github-contribution-grid-snake-dark.svg)
+  <img src="https://raw.githubusercontent.com/Endy115/Endy115/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
