@@ -2,7 +2,10 @@
 
 Reverse Engineering • Firmware • Malware Analysis  
 ARM / MIPS / x86 • Static & Dynamic Analysis
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ghidra](https://img.shields.io/badge/Ghidra-0A0A0A?style=flat-square)
 ---
 
 ## Focus
