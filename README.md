@@ -1,50 +1,22 @@
-# Eneennn
+<h1 align="center">Eneennn</h1>
 
-Reverse Engineering • Firmware • Malware Analysis  
+<p align="center">
+Reverse Engineering • Firmware Security • Malware Analysis
+</p>
+
+<p align="center">
 ARM / MIPS / x86 • Static & Dynamic Analysis
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ghidra](https://img.shields.io/badge/Ghidra-0A0A0A?style=flat-square)
----
+</p>
 
-## Focus
-- Firmware reverse engineering (OpenWrt, embedded Linux)
-- Binary analysis & function reconstruction (Ghidra/IDA)
-- Vulnerability discovery in IoT services
-- Malware behavior analysis & IOC extraction
-
-## Toolchain
-**Reverse**
-- Ghidra, IDA Pro, radare2
-- objdump, readelf, strings
-
-**Firmware / Embedded**
-- binwalk, squashfs-tools
-- QEMU (emulation), OpenWrt, U-Boot
-
-**Malware**
-- x64dbg, Procmon
-- YARA (basic)
-
-**Languages**
-- C/C++, Python, Bash
-- Assembly (x86, ARM)
+<p align="center">
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ghidra-0A0A0A?style=flat-square"/>
+<img src="https://img.shields.io/badge/IDA-000000?style=flat-square"/>
+</p>
 
 ---
 
-## Highlights
-- Interested in unsafe string handling, memory corruption patterns
-- Building small tooling to automate reversing workflows
-
----
-
-## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true)
-
----
-
-## Contact
-- Email: yourmail@example.com
-- GitHub: https://github.com/YOUR_USERNAME
+```text
+0xDEADBEEF | reversing bits into meaning
