@@ -1,60 +1,69 @@
-<!-- ===== NEON HEADER ===== -->
+<!-- ===== MATRIX HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff0000,20:ff00ff,40:7928ca,60:00f5ff,80:2afadf,100:ffe53b&height=260&section=header&text=Eneennn&fontSize=60&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:001a00,40:00ff66,70:00cc44,100:003300&height=260&section=header&text=Eneennn&fontSize=60&fontColor=ffffff&animation=twinkling&stroke=00ff66&strokeWidth=2" />
 </p>
 
-<!-- ===== MATRIX TYPING ===== -->
+<!-- ===== MATRIX GIF BACKGROUND STRIP ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=2000&pause=600&color=00FF00&center=true&vCenter=true&width=1000&lines=%3E%3E+Reverse+Engineering+Mode+Activated;%3E%3E+Firmware+Disassembly+Pipeline;%3E%3E+Malware+Behavior+Reconstruction;%3E%3E+0xDEADBEEF+%7C+Patch+%7C+Trace+%7C+Exploit" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" />
+</p>
+
+<!-- ===== TERMINAL TYPING ===== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=1800&pause=700&color=00FF66&center=true&vCenter=true&width=1000&lines=%24+whoami%3A+reverse_engineer;%24+target%3A+firmware+%7C+malware;%24+arch%3A+ARM+%7C+MIPS+%7C+x86;%24+mode%3A+static+%26+dynamic+analysis;%24+status%3A+ONLINE" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Reverse-Engineering-ff0080?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Firmware-Security-7928ca?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Malware-Analysis-00f5ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ARM%20%7C%20MIPS%20%7C%20x86-ffe53b?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MATRIX-ONLINE-00ff66?style=for-the-badge&logo=gnometerminal&logoColor=black"/>
+  <img src="https://img.shields.io/badge/REVERSE-ENGINEERING-00cc44?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FIRMWARE-ANALYSIS-00ff66?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MALWARE-ANALYSIS-00cc44?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,github,git&perline=7" />
-</p>
-
----
-
-# 🌈 SKILL MATRIX
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IDA-FFD700?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/QEMU-00FFFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Binwalk-FF00FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/YARA-00FFAA?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Endy115&style=for-the-badge&color=00ff66" />
 </p>
 
 ---
 
-# ⚡ LIVE CYBER DASHBOARD
+## 🧪 SKILL MATRIX
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Endy115&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,git,github&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Endy115&show_icons=true&theme=radical&hide_border=true&ring_color=ff00ff&fire=ff0000" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endy115&layout=compact&theme=radical&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Endy115&theme=radical&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Endy115&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://img.shields.io/badge/Ghidra-00ff66?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IDA-00cc44?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/QEMU-00ff66?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/binwalk-00cc44?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/YARA-00ff66?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🐍 SNAKE EATING YOUR COMMITS
+## ⚡ LIVE DASHBOARD
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Endy115&theme=matrix&no-frame=true&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Endy115&show_icons=true&theme=chartreuse-dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endy115&layout=compact&theme=chartreuse-dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Endy115&theme=chartreuse-dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Endy115&theme=github-compact&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🐍 SNAKE (MATRIX MODE)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Endy115/Endy115/output/github-contribution-grid-snake-dark.svg" />
@@ -62,9 +71,10 @@
 
 ---
 
-# 🧨 ABOUT
+## 🧨 ABOUT (TERMINAL)
 
 ```text
+$ uname -a
 Architecture: ARM / MIPS / x86
 Focus: Firmware reverse engineering
 Mode: Static + Dynamic analysis
