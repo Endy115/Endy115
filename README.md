@@ -20,6 +20,13 @@
 </p>
 
 ---
+Architecture : ARM / MIPS / x86
+
+Focus : Firmware reverse engineering
+
+Mode : Static + Dynamic analysis
+
+Mindset : Patch • Trace • Exploit • Repeat
 
 <!-- ================= ABOUT ================= -->
 
@@ -48,10 +55,7 @@
 </p>
 
 ---
-Architecture : ARM / MIPS / x86
-Focus : Firmware reverse engineering
-Mode : Static + Dynamic analysis
-Mindset : Patch • Trace • Exploit • Repeat
+
 <!-- ================= DASHBOARD ================= -->
 
 <p align="center">
